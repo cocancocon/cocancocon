@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Your Name" width="200"/>
-</p>
-
 <h1 align="center">Hi there! I'm Nazmi</h1>
 
 <h3 align="center">Software Developer and Code Enthusiast</h3>
@@ -14,6 +10,9 @@
 <p align="left">
   <a href="mailto:nazmihaikal@graduate.utm.my">✉ Email</a>
 </p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cocancocon&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
