@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! I'm Nazmi</h1>
 <h3 align="center"></h3>
 
-
-<h3 align="left">________________________________________________________</h3>
 <h3 align="left">Connect with me: nazmihaikal@graduate.utm.my</h3>
 <p align="left">
 </p>
