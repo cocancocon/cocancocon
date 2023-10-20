@@ -13,24 +13,22 @@
 </div>
 
 ***
-<h3>About Me</h3>
-
-<p>
-  <li>🏫 Currently studying Graphics and Multimedia at Universiti Teknologi Malaysia</li>
-  <li>📖 Learning CSS, HTML, and PHP</li>
-  <li>🔥 Proficient in C and Python</li>
-</p>
+## 👦 About me 
+- 🏫 Currently studying Graphics and Multimedia at [Universiti Teknologi Malaysia](www.utm.my)
+- 📖 Learning CSS, HTML, and PHP
+- 🔥 Proficient in C and Python
 
 ***
-<h3 align="left">Reach Me With :</h3>
+## 🤝 Reach Me Through :
+
 <p align="left">
-  <a href="mailto:nazmihaikal@graduate.utm.my">Email</a>
-  <br>
-  <a href="https://www.linkedin.com/in/nazmi-haikal-997aa9295/">LinkedIn</a>
+    <a href="https://github.com/cocancocon" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@cocancocon-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/nazmi-haikal-997aa9295" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/nazmihaikal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazmi-haikal-997aa9295//"></a>
+    <a href="mailto:shahizan@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-nazmihaikal@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nazmihaikal@graduate.utm.my.com"></a>
 </p>
 
 ***
-<h3 align="left">Languages and Tools I'm Experienced With</h3>
+## 💻 Languages and Tools I'm Experienced With
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
