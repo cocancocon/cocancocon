@@ -24,7 +24,7 @@
 <p align="left">
     <a href="https://github.com/cocancocon" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@cocancocon-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/nazmi-haikal-997aa9295" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/nazmihaikal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazmi-haikal-997aa9295//"></a>
-    <a href="mailto:shahizan@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-nazmihaikal@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nazmihaikal@graduate.utm.my.com"></a>
+    <a href="mailto:nazmihaikal@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-nazmihaikal@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nazmihaikal@graduate.utm.my.com"></a>
 </p>
 
 ***
