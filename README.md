@@ -14,7 +14,7 @@
 
 ***
 ## 👦 About me 
-- 🏫 Currently studying Graphics and Multimedia at [Universiti Teknologi Malaysia](www.utm.my)
+- 🏫 Currently studying Graphics and Multimedia at [Universiti Teknologi Malaysia](https://www.utm.my/)
 - 📖 Learning CSS, HTML, and PHP
 - 🔥 Proficient in C and Python
 
